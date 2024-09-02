@@ -1,0 +1,11 @@
+{
+  "name": "basket-of-goods",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": " parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
